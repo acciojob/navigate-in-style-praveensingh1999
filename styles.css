@@ -3,7 +3,11 @@ nav{
 	background-color: #D3D3D3;
 	padding: 10px;
 }
-div{
+/* div{
+	display: block;
+	margin-right: 1rem;
+} */
+a{
 	display: inline;
 	margin-right: 1rem;
 }
