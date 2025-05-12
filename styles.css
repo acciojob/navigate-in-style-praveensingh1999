@@ -8,7 +8,7 @@ nav{
 	margin-right: 1rem;
 } */
 li{
-	display: inline;
+	display: flex;
 	margin-right: 1rem;
 	
 }
@@ -22,6 +22,6 @@ ul{
     max-width: 1200px; /* Example max width */
     margin: 0 auto; /* Center the container */
 	padding: 10px;
-	display: block;
+	
 	background-color: rgb(211, 211, 211);
 }
