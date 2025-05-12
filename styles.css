@@ -18,5 +18,7 @@ ul{
     margin: 0;
 }
 .container{
-	
+	 width: 100%; /* Or whatever width is required */
+    max-width: 1200px; /* Example max width */
+    margin: 0 auto; /* Center the container */
 }
