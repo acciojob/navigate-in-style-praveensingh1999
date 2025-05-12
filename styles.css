@@ -1,15 +1,17 @@
-nav {
+/*  your css code here. If applicable */
+nav{
 	background-color: #D3D3D3;
 	padding: 10px;
 }
-
-nav ul {
-	list-style: none; /* removes bullets */
-	margin: 0;
-	padding: 0;
-}
-
-nav li {
-	display: inline; /* makes list items horizontal */
+/* div{
+	display: block;
 	margin-right: 1rem;
+} */
+li{
+	display: inline;
+	margin-right: 1rem;
+	
+}
+ul{
+	list-style: none;
 }
