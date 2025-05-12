@@ -7,7 +7,7 @@ nav{
 	display: block;
 	margin-right: 1rem;
 } */
-a{
+li{
 	display: inline;
 	margin-right: 1rem;
 	list-style: none;
