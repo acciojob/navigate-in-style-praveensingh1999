@@ -21,4 +21,7 @@ ul{
 	 width: 100%; /* Or whatever width is required */
     max-width: 1200px; /* Example max width */
     margin: 0 auto; /* Center the container */
+	padding: 10px;
+	display: flex;
+	background-color: rgb(211, 211, 211);
 }
